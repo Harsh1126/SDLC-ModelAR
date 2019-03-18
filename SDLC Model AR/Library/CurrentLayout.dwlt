@@ -201,8 +201,8 @@ MonoBehaviour:
     y: 0
     width: 863
     height: 496
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -372,7 +372,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: eaf0ffff96fbffff00000000e02e0000
+    m_ExpandedIDs: 96fbffff00000000f22e0000042f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -428,9 +428,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.07953404, y: 1.3725827, z: 0.315686}
+    m_Target: {x: -0.3425533, y: 0.2654879, z: 2.1926043}
     speed: 2
-    m_Value: {x: -0.07953404, y: 1.3725827, z: 0.315686}
+    m_Value: {x: -0.3425533, y: 0.2654879, z: 2.1926043}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -454,13 +454,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.04829344, y: 0.002102404, z: -0.000100910715, w: -0.998831}
+    m_Target: {x: -0.10357691, y: -0.030722864, z: 0.003201779, w: -0.99414176}
     speed: 2
-    m_Value: {x: -0.04829344, y: 0.002102404, z: -0.00010091071, w: -0.998831}
+    m_Value: {x: -0.10357691, y: -0.030722864, z: 0.003201779, w: -0.99414176}
   m_Size:
-    m_Target: 4.339155
+    m_Target: 5.399801
     speed: 2
-    m_Value: 4.339155
+    m_Value: 5.399801
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -666,19 +666,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Audio
+    - Assets/3D Models/Incremental
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Audio
+  - Assets/3D Models/Incremental
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Sanjay\Documents\GitHub\SDLC-ModelAR\SDLC Model AR
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 142e0000
-    m_LastClickedID: 11796
-    m_ExpandedIDs: 0000000062290000502b0000b62c0000742d000000ca9a3bffffff7f
+    m_SelectedIDs: 922d0000
+    m_LastClickedID: 11666
+    m_ExpandedIDs: 00000000622900005c2b0000c42c0000822d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -706,7 +706,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000062290000502b0000b62c0000742d0000
+    m_ExpandedIDs: 00000000622900005c2b0000c42c0000822d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -758,7 +758,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 51}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 115
 --- !u!114 &18
