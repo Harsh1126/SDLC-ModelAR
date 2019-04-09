@@ -902,7 +902,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &289979684
 Transform:
   m_ObjectHideFlags: 0
@@ -1367,8 +1367,8 @@ GameObject:
   - component: {fileID: 448388501}
   - component: {fileID: 448388500}
   - component: {fileID: 448388499}
-  - component: {fileID: 448388505}
   - component: {fileID: 448388506}
+  - component: {fileID: 448388505}
   m_Layer: 0
   m_Name: Incremental
   m_TagString: Untagged
@@ -1851,7 +1851,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &665970434
 Transform:
   m_ObjectHideFlags: 0
@@ -1942,7 +1942,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &717643574
 Transform:
   m_ObjectHideFlags: 0
@@ -4491,7 +4491,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1601161213
 Transform:
   m_ObjectHideFlags: 0
@@ -4623,7 +4623,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: bd5099a1d64362f42bc7b2e23205433d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: bd5099a1d64362f42bc7b2e23205433d, type: 3}
