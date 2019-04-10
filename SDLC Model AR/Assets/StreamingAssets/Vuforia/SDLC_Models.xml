@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="RAD" size="1.000000 0.528302" />
+    <ImageTarget name="Agile" size="1.000000 0.515873" />
     <ImageTarget name="Spiral" size="1.000000 0.672026" />
     <ImageTarget name="Prototype" size="1.000000 1.007962" />
     <ImageTarget name="Incremental" size="1.000000 0.581764" />
