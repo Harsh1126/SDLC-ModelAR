@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Agile.unity
+- path: Assets/Scenes/RAD.unity
   isLoaded: 1
   isActive: 1
