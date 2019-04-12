@@ -242,6 +242,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\ImageTagetPlayAudio.cs" />
+    <Compile Include="Assets\Scripts\SceneManagement.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
   </ItemGroup>
