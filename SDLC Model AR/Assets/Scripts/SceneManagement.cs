@@ -40,4 +40,8 @@ public class SceneManagement : MonoBehaviour {
     {
         SceneManager.LoadScene(6);
     }
+    public void backBtn()
+    {
+        SceneManager.LoadScene(0);
+    }
 }
