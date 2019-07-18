@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Incremental.unity
+- path: Assets/Scenes/Waterfall.unity
   isLoaded: 1
   isActive: 1

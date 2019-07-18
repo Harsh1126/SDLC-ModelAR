@@ -5,7 +5,7 @@ using Vuforia;
 
 public class ImageTagetPlayAudio : MonoBehaviour, ITrackableEventHandler
  {
-    static int c = 0;
+    int c = 0;
     private TrackableBehaviour mTrackableBehaviour;
     public GameObject[] obj;
 
