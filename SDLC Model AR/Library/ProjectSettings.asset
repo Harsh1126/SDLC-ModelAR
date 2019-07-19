@@ -243,8 +243,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: 
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: C:/Users/Sanjay/Documents/GitHub/SDLC-ModelAR/SDLC Model AR/mykeystore.keystore
+  AndroidKeyaliasName: mykeystore
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
   AndroidEnableTango: 0
