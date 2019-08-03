@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Waterfall.unity
     guid: be0b561cc1f7eb94a8a884541e55f252
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Incremental.unity
     guid: f170366bfb520054cb3f6c9bf68347dc
   - enabled: 0
