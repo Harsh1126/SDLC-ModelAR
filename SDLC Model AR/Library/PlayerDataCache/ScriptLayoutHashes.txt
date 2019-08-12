@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Sanjay/Documents/GitHub/SDLC-ModelAR
+C:/Users/Sanjay/Documents/GitHub/SDLC-ModelAR/SDLC Model AR/SDLC ModelAR.apk
 SceneListBegin?
 Assets/Scenes/Start Page.unity
 Assets/Scenes/Waterfall.unity

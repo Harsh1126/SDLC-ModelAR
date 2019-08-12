@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 342}
   m_MaxSize: {x: 12008, y: 8042}
   vertical: 0
-  controlID: 10
+  controlID: 110
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 342}
   m_MaxSize: {x: 8006, y: 8042}
   vertical: 1
-  controlID: 11
+  controlID: 77
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -237,7 +237,7 @@ MonoBehaviour:
   - {fileID: 18}
   - {fileID: 19}
   m_Selected: 1
-  m_LastSelected: 2
+  m_LastSelected: 0
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -372,7 +372,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 60e0ffff28e1ffff4ee3ffffa0e6ffffaae6ffff50ebffff10ecffff36eeffff88f1ffff92f1ffff96fbffff00000000
+    m_ExpandedIDs: a2d5feff5ed6feff88d8feffdedbfeffecdbfeff56f8feff12f9feff40fbfeff96fefeffa4fefeff96fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -423,14 +423,14 @@ MonoBehaviour:
     height: 474
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 0
-  lastFramingTime: 86.67427402912553
+  lastFramingTime: 252.23886909917056
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 429.5, y: 228.99985, z: 0}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 429.5, y: 228.99985, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -458,9 +458,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.006315999, y: 0.00061051256, z: -0.0000021980868, w: -0.9999798}
   m_Size:
-    m_Target: 10.600012
+    m_Target: 1606.2245
     speed: 2
-    m_Value: 10.600012
+    m_Value: 1606.2245
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -666,18 +666,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Audio
+    - Assets/Resources
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Audio
+  - Assets/Resources
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Sanjay\Documents\GitHub\SDLC-ModelAR\SDLC Model AR
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 450}
-    m_SelectedIDs: e8330000
-    m_LastClickedID: 13288
+    scrollPos: {x: 0, y: 514}
+    m_SelectedIDs: 9c330000
+    m_LastClickedID: 13212
     m_ExpandedIDs: 0000000064290000ba2a00001a2d0000622f0000aa2f0000ba30000080320000383300002234000078350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -733,7 +733,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300004a2e0000d63b00009007000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

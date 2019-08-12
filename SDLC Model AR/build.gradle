@@ -23,8 +23,8 @@ allprojects {
 apply plugin: 'com.android.application'
 
 dependencies {
-	compile fileTree(dir: 'libs', include: ['*.jar'])
-	compile(name: 'VuforiaWrapper', ext:'aar')
+	implementation fileTree(dir: 'libs', include: ['*.jar'])
+	implementation(name: 'VuforiaWrapper', ext:'aar')
 }
 
 android {
