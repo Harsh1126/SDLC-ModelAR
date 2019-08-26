@@ -22,7 +22,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
     protected TrackableBehaviour mTrackableBehaviour;
     protected TrackableBehaviour.Status m_PreviousStatus;
     protected TrackableBehaviour.Status m_NewStatus;
-
+    public GameObject ModelPrefab;
     #endregion // PROTECTED_MEMBER_VARIABLES
 
     #region UNITY_MONOBEHAVIOUR_METHODS
@@ -87,6 +87,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
     {
         if (mTrackableBehaviour)
         {
+            ModelPrefab.SetActive(true);
             var rendererComponents = mTrackableBehaviour.GetComponentsInChildren<Renderer>(true);
             var colliderComponents = mTrackableBehaviour.GetComponentsInChildren<Collider>(true);
             var canvasComponents = mTrackableBehaviour.GetComponentsInChildren<Canvas>(true);
